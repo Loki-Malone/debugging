@@ -1,5 +1,5 @@
 # debugging
-
+    Was tasked to debug website
 # Contibutors
     @Loki_Malone
 
@@ -10,7 +10,7 @@
 # Contact
     j.loki.malone@gmail.com
     Linkin/loki_Malone
-    GitHub.com/Loki-Malone
+    GitHub.com/Loki-Maloneg
 
 
 
